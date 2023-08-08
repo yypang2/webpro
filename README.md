@@ -1,7 +1,7 @@
 # Web Programming
 
-**Instructor:** Dr. Alex Tan  
-**Email:** alex.tan@example.edu  
+**Instructor:** Dr. Pang
+**Email:** yypang@utm.my (fake)
 **Office Hours:** Monday & Wednesday, 2-4 PM  
 **Location:** Room 301, IT Building  
 **Course Duration:** August - December 2023
